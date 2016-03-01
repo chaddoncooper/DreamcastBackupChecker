@@ -1,0 +1,99 @@
+clrmamepro (
+	name "Sega Dreamcast - Multimedia"
+	description "Sega Dreamcast - Multimedia (TOSEC-v2012-07-15)"
+	category "Sega Dreamcast - Multimedia"
+	version 2012-07-15
+	author "Maddog"
+)
+
+game (
+	name "Capcom Taisen Fan Disc v1.001 (2001)(Capcom)(NTSC)(JP)[!]"
+	description "Capcom Taisen Fan Disc v1.001 (2001)(Capcom)(NTSC)(JP)[!]"
+	rom ( name "Capcom Taisen Fan Disc v1.001 (2001)(Capcom)(NTSC)(JP)[!].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc e1d0421d md5 fa04f94274baa05ef04761293a7eb272 sha1 e75bc29a2ff3416533655a035a7f89ab2dd44b95 )
+	rom ( name track02.raw size 1735776 crc 0de03f29 md5 d09be539a7074a058159505b7f5fdcb3 sha1 db680939aae4bf61d0e588414c72a47c6dd92cdd )
+	rom ( name track03.bin size 1185760800 crc 10c9f6b9 md5 bb0dc537d10a1690f48199b194a03441 sha1 7dad0b591dd8f7ca6d0d71782e6f14affdea9bb6 )
+)
+
+game (
+	name "Happy Lesson - First Lesson v1.001 (2000)(Datam Polystar)(NTSC)(JP)[!]"
+	description "Happy Lesson - First Lesson v1.001 (2000)(Datam Polystar)(NTSC)(JP)[!]"
+	rom ( name "Happy Lesson - First Lesson v1.001 (2000)(Datam Polystar)(NTSC)(JP)[!].gdi" size 88 crc 9662f1da md5 acca1310ba93fb4302a6733f95084f15 sha1 91d1d0293204b6fd7ad237713b1922211c5af014 )
+	rom ( name track01.bin size 5837664 crc 51a05b3d md5 8099b198d22aa9fdff6b376da4ad5335 sha1 7fa053efef706a2844977d9aeb91718268bb9d95 )
+	rom ( name track02.raw size 20869296 crc 36be6060 md5 2e7ac49a3ec0d803bbdd65337d0e8407 sha1 4f85200b6702f958f5625cefe32acd0d7cb3ac5c )
+	rom ( name track03.bin size 1185760800 crc f07239db md5 fa3e63da952bc902fb92f5ff612fc9d2 sha1 bbda4aa31dbd2fed39abb2191e16b766fff3eb25 )
+)
+
+game (
+	name "Project Berkley v1.000 (1998)(Sega)(NTSC)(JP)[!][HDR-0002-0008 2M5, 2MB4, 2MB5, 2MB6, 2MB9, 2MM1][Virtua Fighter 3tb, HDR-0002]"
+	description "Project Berkley v1.000 (1998)(Sega)(NTSC)(JP)[!][HDR-0002-0008 2M5, 2MB4, 2MB5, 2MB6, 2MB9, 2MM1][Virtua Fighter 3tb, HDR-0002]"
+	rom ( name "Project Berkley v1.000 (1998)(Sega)(NTSC)(JP)[!][HDR-0002-0008 2M5, 2MB4, 2MB5, 2MB6, 2MB9, 2MM1][Virtua Fighter 3tb, HDR-0002].gdi" size 87 crc 40de6926 md5 9c3e7f23882b809c483bde7806a74761 sha1 17768465033ed1a310b1971439bc2111026400a7 )
+	rom ( name track01.bin size 853776 crc 05e4a59b md5 c208f51c01cac356459aba5c7547f1d0 sha1 a2ccc32d24a8a6710037454054dbf993e86cf9bc )
+	rom ( name track02.raw size 1735776 crc d74a0752 md5 832c7c6f2f435fa7a879c5b5a340e5cf sha1 2fddd2ab9b2e4341f6ac8f71a43e3c3654b81bcb )
+	rom ( name track03.bin size 1185760800 crc bd66c649 md5 b6b0e50af6ea737849c6194a216b7e34 sha1 9417dc9a0c81adefeb6e304be340447e99456015 )
+)
+
+game (
+	name "Real Sound - Kaze no Regret v1.005 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!][T-30001M-0039 1M1]"
+	description "Real Sound - Kaze no Regret v1.005 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!][T-30001M-0039 1M1]"
+	rom ( name "Real Sound - Kaze no Regret v1.005 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!][T-30001M-0039 1M1].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc 9a56aeb9 md5 4f69d0305930300c97cef97d29774fe6 sha1 06e6ed4fc33656109ca40b7cad0db445c08fad49 )
+	rom ( name track02.raw size 2526048 crc aff3ea83 md5 31b3c618d4597a0e56a6ae0a39b6134b sha1 e2ff90e85ca4b047be69fafdb9ab288b3300010a )
+	rom ( name track03.bin size 1185760800 crc 08fd954a md5 e2de924802291923fe3d8a3450479d72 sha1 954907f8afb0aab7f5b7170a2f54261af5d219b0 )
+)
+
+game (
+	name "Real Sound - Kaze no Regret v1.006 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!]"
+	description "Real Sound - Kaze no Regret v1.006 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!]"
+	rom ( name "Real Sound - Kaze no Regret v1.006 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc 57747fa8 md5 ca9bee60ebc54b4bc39556ee3c84044c sha1 52da86416c3440963168885dff2dabd4d6d9ae06 )
+	rom ( name track02.raw size 2526048 crc 7612829c md5 6543f549fb71c6086e1424e8c64c3fc6 sha1 e8ca1d7133af668999d8ccc66b07f0541e194601 )
+	rom ( name track03.bin size 1185760800 crc 1e5ec99f md5 1bf37cfe757691a6a0b1baf7c1cb9b0a sha1 528f560f0be039afb36661dd377ac10c1c460b69 )
+)
+
+game (
+	name "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!]"
+	description "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!]"
+	rom ( name "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 1 of 2)[!].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc 7402eab8 md5 a1a9f14a94376d496ea1d8d91cb5b1f8 sha1 63f21281acc214e32c0d4cfd7663ff9b4e3e3ed8 )
+	rom ( name track02.raw size 2526048 crc 7486cfde md5 0033ceb9e37d05fdad56d6ea6c75a98a sha1 e0d788bec4815cbce55c9e4797d3e5099be9f51c )
+	rom ( name track03.bin size 1185760800 crc 187a63ed md5 790bf58b510546fcba40c6fdd78fe3a7 sha1 74cc3b493e85bdc0270fd9204cd4b69a7dc1209f )
+)
+
+game (
+	name "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!]"
+	description "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!]"
+	rom ( name "Real Sound - Kaze no Regret v1.007 (1999)(WARP)(NTSC)(JP)(Disc 2 of 2)[!].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc 459af754 md5 3830a3565756f91825185ff6894a4316 sha1 33530b6516d0a12a1140f9fdae83d46346649fdf )
+	rom ( name track02.raw size 2526048 crc e047c65c md5 4d0c22691940fb55ac9c4aca6a78c753 sha1 0b06ab1a305747fe7b73f7420cb854d5eff2cccd )
+	rom ( name track03.bin size 1185760800 crc 99dacab4 md5 a68ec855d1328e2690aa3ef7bd3fd38a sha1 22cb855f7301986fb1419cc7236dbb1c4ac6eead )
+)
+
+game (
+	name "Sakura Taisen Omake Disc v1.001 (2000)(Sega)(NTSC)(JP)[!][Sakura Taisen, HDR-0072]"
+	description "Sakura Taisen Omake Disc v1.001 (2000)(Sega)(NTSC)(JP)[!][Sakura Taisen, HDR-0072]"
+	rom ( name "Sakura Taisen Omake Disc v1.001 (2000)(Sega)(NTSC)(JP)[!][Sakura Taisen, HDR-0072].gdi" size 87 crc d7ab4c6b md5 b3ecdf113fd42344dd84142679e4cb36 sha1 9d50b816d3f69ad192f5986ab487769965c2e082 )
+	rom ( name track01.bin size 705600 crc 155a7f15 md5 cd447d3afc390bf9719858c6aa7be4e7 sha1 f1c7c50cd474eddbcbc806f90ee02298d888f84d )
+	rom ( name track02.raw size 1735776 crc 0de03f29 md5 d09be539a7074a058159505b7f5fdcb3 sha1 db680939aae4bf61d0e588414c72a47c6dd92cdd )
+	rom ( name track03.bin size 1185760800 crc 87055487 md5 a5d7d91c01980d7ff8df47cc4c93b042 sha1 11f22352e5f790fc0185eaef36be5b03b67f57cb )
+)
+
+game (
+	name "Sakura Taisen 4 - Preview Disc v1.001 (2001)(Sega)(NTSC)(JP)[!][Sakura Taisen Online - Paris no Yuugana Hibi, HDR-0185]"
+	description "Sakura Taisen 4 - Preview Disc v1.001 (2001)(Sega)(NTSC)(JP)[!][Sakura Taisen Online - Paris no Yuugana Hibi, HDR-0185]"
+	rom ( name "Sakura Taisen 4 - Preview Disc v1.001 (2001)(Sega)(NTSC)(JP)[!][Sakura Taisen Online - Paris no Yuugana Hibi, HDR-0185].gdi" size 87 crc 860d5af3 md5 9fe0346902f370d3b5051b9d8d382a52 sha1 bd6d44f93c4d6106546f590449e908213cf173c3 )
+	rom ( name track01.bin size 1220688 crc b68b3f74 md5 54b8e074ac61b8854140582c01ba4f66 sha1 8bcad04e1d1583ccd5408e8acf8a81b3d7a3c33c )
+	rom ( name track02.raw size 1735776 crc f92732fe md5 275ae6345663c5bdecd668e3468b8775 sha1 650850f5891f58a732e75f99a36567ac1c35ed85 )
+	rom ( name track03.bin size 1185760800 crc 83a46a8d md5 6ca854ac53681562153481907138c032 sha1 77abce197a5c4d554e6adbcd1d8340b9c50a3f1f )
+)
+
+game (
+	name "Virtua Fighter History - VF4 v1.001 (2001)(Sega)(NTSC)(JP)[!][Shenmue II, HDR-0179]"
+	description "Virtua Fighter History - VF4 v1.001 (2001)(Sega)(NTSC)(JP)[!][Shenmue II, HDR-0179]"
+	rom ( name "Virtua Fighter History - VF4 v1.001 (2001)(Sega)(NTSC)(JP)[!][Shenmue II, HDR-0179].gdi" size 117 crc 5ae7fdd3 md5 db5771f8c017dcedf881f7d1484819ed sha1 c4b6b3cc477c36909fcd700a1ece2fc3f88a6f1a )
+	rom ( name track01.bin size 705600 crc 46a99f78 md5 89ddd4c606c4dc17c4c558ff3b1abf26 sha1 c95c5def46db605a77dbb8995784ac2342e249d1 )
+	rom ( name track02.raw size 1735776 crc 0de03f29 md5 d09be539a7074a058159505b7f5fdcb3 sha1 db680939aae4bf61d0e588414c72a47c6dd92cdd )
+	rom ( name track03.bin size 13914432 crc b4d69d65 md5 00f780882eecde75a420cdc1d61223b9 sha1 2fc5a94ba94e6af595870f433b436975c4064eb4 )
+	rom ( name track04.bin size 1171846368 crc 8933ceb1 md5 6a020b64c34c7c9ef35f5de775972af1 sha1 8fd3971134bce59e4cee10ddfab582534130b942 )
+)
+
